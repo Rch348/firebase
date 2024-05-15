@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "116867438592",
+    "project_id": "contact-list-6a6cc",
+    "storage_bucket": "contact-list-6a6cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116867438592:android:b0076c4345212f0b0860e5",
+        "android_client_info": {
+          "package_name": "com.example.contact_list"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf35w0Cwn6IwLMLqeAzozRF5ucquuWZpI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
